@@ -46,7 +46,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **React and Ruby on rails**
 
 
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
