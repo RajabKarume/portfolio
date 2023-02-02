@@ -49,7 +49,7 @@
 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
 
 
-📄 Know about my experiences [through my CV](about/resume.md)
+<!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
 
 ⚡ Fun fact? **I'm a very good swimmer and i coach during my free time**
@@ -63,11 +63,11 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/RajabKarume](https://github.com/italanta)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **rkarume@gmail.com**
 
 <br />
 
@@ -93,12 +93,12 @@
 <br/>
 
 <!-- Link in this table your actual contributions -->
-### My contributions
+<!-- ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
 | 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) | -->
 
 
 ### The technologies I used
@@ -123,14 +123,14 @@
 <br/>
 
 <!-- Link in this table your actual contributions -->
-### My contributions
+<!-- ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
 | 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
 | 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
 | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
+| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
 
 
 ### The technologies I used
@@ -142,9 +142,9 @@
 <!-- Section: GITHUB OVERVIEW -->
 #
 
-<h2 align="left">My GitHub Overview</h2>
+<!-- <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p> -->
 
 <!-- END -->
 
